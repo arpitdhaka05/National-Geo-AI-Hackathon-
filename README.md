@@ -151,4 +151,19 @@ Download the complete proposal here:
 ---
 
 ## 🛠 Suggested Repository Structure
+geoai-drainage-planning/
+│
+├── data/ # Drone / LiDAR inputs
+├── notebooks/ # AI pipeline implementation
+├── models/ # Terrain & hydrology models
+├── outputs/ # DTM, flood maps, drainage plans
+├── Proposal.pdf
+└── README.md
+
+
+---
+
+## 📜 License
+This project is developed for the **National GeoAI Hackathon** under Team Protego.
+
 
